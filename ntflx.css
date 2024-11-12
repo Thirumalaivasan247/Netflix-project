@@ -1,0 +1,77 @@
+body{
+    border: 2px solid black;
+    height: 470px;
+    width: 350px;
+    margin-left: 70vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20vh;  
+    color: white; 
+   
+    
+
+}
+.main{
+    padding: 10px;
+    background-color:rgb(16, 16, 16);
+    opacity: 80%;
+    
+    
+    
+}
+.sub{
+    padding: 10px;
+   
+   
+
+}
+.input1{
+    padding: 10px;
+    margin-left: 45px;
+    width: 30px;
+    height: 30px;
+}
+.input1 input{
+    height: 30px;
+}
+.input2 {
+    padding: 5px;
+    margin-left: 50px;
+}
+.input2 input{
+    height: 30px;
+}
+.thiru3{
+   margin-left: 100px;
+   padding: 10px;
+}
+h4{
+   margin-left: 120px;
+}
+.thiru4{
+    padding: 10px;
+    margin-left: 70px;
+}
+.thiru5{
+    padding: 5px;
+    margin-left: 90px;
+}
+body{
+    
+    background-image: url("/NTFLX/ntflx.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+   
+   
+}
+/* .thiru3:hover{
+    background-color: rgb(196, 14, 14);
+} */
+.thiru3     :hover{
+    background-color: brown;
+}
+.thiru4 :hover{
+    background-color: brown;
+}
